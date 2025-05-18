@@ -1,6 +1,6 @@
 ---
 title: 30 Days No Nut Challenge
-draft: false
+draft: true
 tags: [self-discipline, digital wellness]
 ---
 

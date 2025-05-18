@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Noob to Nirvana
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hey , welcome to the log of a Noob Dev !!!
+<!-- // TODO:: Replace this image with some cool , AI generated image , that represent , your idelogies -->
+![[noob2Nirvana.png]]
