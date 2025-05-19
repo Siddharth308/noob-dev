@@ -1,5 +1,5 @@
 ---
-title: 30 Days No Nut Challenge
+title: 30 Days NN Challenge
 draft: true
 tags: [self-discipline, digital wellness]
 ---
