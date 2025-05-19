@@ -1,0 +1,17 @@
+'Cmd/Ctrl+Enter' // Triggers `Todo: Toggle Box`
+'Alt+Enter' // Triggers `Todo: Toggle Box`
+'Alt+D' // Triggers `Todo: Toggle Done`
+'Alt+C' // Triggers `Todo: Toggle Cancelled`
+'Alt+S' // Triggers `Todo: Toggle Start`
+'Cmd/Ctrl+Shift+A' // Triggers  `Todo: Archive`
+☐ Let's try to make something , that just creates a portfolio for me
+    ✔ Just build the home page @started(25-05-18 17:33) @done(25-05-18 18:14) @lasted(41m56s)
+
+    ☐ couple of more pages with articles , where you can document stuffs
+
+    ☐ Deploy the site as free
+
+    ☐ More detailed home page 
+        - where you are going to add your goal , currently what are you pusruing etc ..
+    
+    
