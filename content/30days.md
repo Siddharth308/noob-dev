@@ -54,4 +54,20 @@ This is a personal reflection on 36 days (updated) of no-nut challenge...
 - Blocked Instagram both on iPhone and my mac for now.
 
 
+###### Update on the streak -
+- Same reason , being alone => that leads to relapse
+
 ###### Reset Plans -
+- Plan your day if you are going to be alone ( Avoid as much as possible ) , go to a cafe or go to office 
+
+```mermaid
+gantt
+    title Daily Streaks
+    dateFormat  YYYY-MM-DD
+    axisFormat  %d %b
+
+    section Streaks
+    43-Day Streak     :active, streak1, 2024-03-01, 43d
+    31-Day Streak     :active, streak2, 2024-04-19, 31d
+    23hours Streak    :active, streak3, 2024-05-20, 23h
+```
